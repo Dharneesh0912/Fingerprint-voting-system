@@ -161,21 +161,7 @@ npm start
 
 ---
 
-## 📸 Screenshots
 
-### Registration Portal
-(Add Screenshot)
-
-### Fingerprint Verification
-(Add Screenshot)
-
-### Voting Dashboard
-(Add Screenshot)
-
-### Election Results
-(Add Screenshot)
-
----
 
 ## 🎯 Learning Outcomes
 
